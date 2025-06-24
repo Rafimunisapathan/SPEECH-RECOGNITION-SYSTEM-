@@ -21,3 +21,5 @@
 6:OUTPUT
 
 ##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/7f7b3804-0f75-4da7-ac2a-5d43ba270ff5)
